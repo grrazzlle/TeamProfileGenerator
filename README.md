@@ -19,11 +19,11 @@
 
   ## Installation
 
-  clone repo and run npm install and then run app.js, file will be created in the output folder
+  Clone repo and run npm install and then run app.js, file will be created in the output folder
 
   ## Usage
 
-  run app.js, answer prompted questions, when complete file will be created in the output folder
+  Run app.js, answer prompted questions, when complete file will be created in the output folder
 
   ## Licence
 
