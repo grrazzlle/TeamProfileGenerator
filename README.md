@@ -35,7 +35,7 @@
   None 
   Find licence info [here](https://choosealicense.com/)
 
-  ## Contributoring
+  ## Contributing
 
   Self
 
